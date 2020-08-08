@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hooktodos/static/css/main.737ea37c.chunk.css",
+    "main.js": "/hooktodos/static/js/main.26a7a138.chunk.js",
+    "main.js.map": "/hooktodos/static/js/main.26a7a138.chunk.js.map",
+    "runtime-main.js": "/hooktodos/static/js/runtime-main.fadc66af.js",
+    "runtime-main.js.map": "/hooktodos/static/js/runtime-main.fadc66af.js.map",
+    "static/js/2.4b9819c6.chunk.js": "/hooktodos/static/js/2.4b9819c6.chunk.js",
+    "static/js/2.4b9819c6.chunk.js.map": "/hooktodos/static/js/2.4b9819c6.chunk.js.map",
+    "index.html": "/hooktodos/index.html",
+    "precache-manifest.bf26354e45bd7213878db45e9c0220f0.js": "/hooktodos/precache-manifest.bf26354e45bd7213878db45e9c0220f0.js",
+    "service-worker.js": "/hooktodos/service-worker.js",
+    "static/css/main.737ea37c.chunk.css.map": "/hooktodos/static/css/main.737ea37c.chunk.css.map",
+    "static/js/2.4b9819c6.chunk.js.LICENSE.txt": "/hooktodos/static/js/2.4b9819c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fadc66af.js",
+    "static/js/2.4b9819c6.chunk.js",
+    "static/css/main.737ea37c.chunk.css",
+    "static/js/main.26a7a138.chunk.js"
+  ]
+}
